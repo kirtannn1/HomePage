@@ -7,3 +7,5 @@ Step-3) Go To Extension Setting
 Step-4) Click on Data
 Step-5) Import File
 Step-6) Finished
+
+Check JPG For View
